@@ -7,13 +7,13 @@ A documentation of the standard operating procedures and processes of the AWS Cl
 
 ### CORE Leadership
 * The CORE leadership is made up of seven people (four males and three females)
+  * Tolulope Adeleke
+  * Nwojiji Blessing
   * David Okeyode
   * Imoh Etuk
-  * Olajumoke Toriola
-  * Nwojiji Blessing
   * Tayo Fatoki
-  * Tolulope Adeleke
   * Promise Uche Nwachukwu
+  * Ejiroghene Pepper
   
 * The CORE leadership policy document can be found here: [CORE Leadership Policy](core-leadership-policy.md)
 
@@ -27,7 +27,6 @@ A documentation of the standard operating procedures and processes of the AWS Cl
 * We currently have two students leaders 
   * Anne Usang - University of Uyo
   * Pelumi Fadahunsi - Covenant University
-
 
 ### Publication Writers
 * The community has a [paid for medium publication](https://medium.com/aws-security-user-group-west-africa) that members can contribute to  
